@@ -524,6 +524,7 @@ body {
 	 padding: 10px;
 	 cursor: pointer;
 	 animation: all 2s linear;
+	 position: fixed;
 }
  .chat-widget-container {
 	 position: relative;
