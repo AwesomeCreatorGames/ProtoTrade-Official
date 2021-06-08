@@ -12,6 +12,7 @@ $('.close').on('click', function(){
     $('body').removeClass('notification-open');
   })
 })
+
 $(function() {
   var chatWidget = (".chat-widget-container"),
       chatBox = $(".chat-box-container");
