@@ -670,7 +670,7 @@ body {
 	 border: 3px solid #fff;
 }
  #search {
-	 background-color: #3972A2 url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/245657/search.png") -11px 0 no-repeat;
+	 background-color: #000000 url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/245657/search.png") -11px 0 no-repeat;
 	 height: 60px;
 	 width: 290px;
 	 position: absolute;
