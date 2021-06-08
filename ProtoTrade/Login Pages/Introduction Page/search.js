@@ -1,9 +1,9 @@
 function back()
 {
-  location.replace=("index.html");
+  location.replace("index.html");
 }
 
 function results()
 {
-  location.replace=("results");
+  location.replace("results");
 }
