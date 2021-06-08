@@ -515,11 +515,6 @@ body {
 	 font-size: 15px;
 }
 
-#positionfix
-{
-	position: fixed;
-}
-
  .chat-widget-wrapper {
 	 display: block;
 	 width: 300px;
