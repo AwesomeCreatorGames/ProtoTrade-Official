@@ -29,5 +29,5 @@ $(function() {
 
 function search()
 {
-  location.replace='/search.html'
+  location.replace=("search.html)";
 }
