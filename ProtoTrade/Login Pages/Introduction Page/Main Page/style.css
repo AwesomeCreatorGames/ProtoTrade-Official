@@ -503,7 +503,9 @@ ul {
 {
   color: white;
 }
+
 body {
+	 background-color: #808080;
 	 font-family: 'Roboto', sans-serif;
 	 text-rendering: optimizeLegibility;
 	 line-height: 1.4;
@@ -524,6 +526,7 @@ body {
 	 padding: 10px;
 	 cursor: pointer;
 	 animation: all 2s linear;
+	 position: fixed;
 }
  .chat-widget-container {
 	 position: relative;
