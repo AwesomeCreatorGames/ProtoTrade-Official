@@ -27,3 +27,7 @@ $(function() {
   
 });
 
+function search()
+{
+  window.replace='/search.html'
+}
