@@ -1,6 +1,6 @@
 function locate_login()
 {
-    location.replace("./Main Page/index.html");
+    location.replace("./Introduction Page/Introduction.html");
 }
 
 function locate_signup()
