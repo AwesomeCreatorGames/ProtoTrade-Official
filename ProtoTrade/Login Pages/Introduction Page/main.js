@@ -1,4 +1,4 @@
 function locate()
 {
-   location.replace("./Main Page/index.html");
+   location.replace("index.html");
 }
