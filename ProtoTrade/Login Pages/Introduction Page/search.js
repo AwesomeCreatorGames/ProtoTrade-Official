@@ -1,6 +1,6 @@
 function back()
 {
-  window.replace='/search.html'
+  window.replace='/index.html'
 }
 
 function results()
