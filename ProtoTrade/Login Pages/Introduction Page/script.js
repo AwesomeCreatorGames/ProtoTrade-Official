@@ -26,8 +26,3 @@ $(function() {
   })
   
 });
-
-function search()
-{
-  location.replace("search.html)";
-}
